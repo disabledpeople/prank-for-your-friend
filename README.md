@@ -4,3 +4,4 @@ First you need to place the files in this directory (C:\folder)
 2- https://prnt.sc/YghV0arB_P_5
 3- ![image](https://user-images.githubusercontent.com/91789063/166100458-c7c12904-e795-417f-91bc-84addcf39868.png)
 
+ Обязательно в таком порядке так как оно не будет работать
